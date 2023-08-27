@@ -2,7 +2,7 @@
 - 👀 I’m interested in (web developer), (data analyst)
 - 🌱 I’m currently learning (python), (php), (javascript)
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me = (instagram = @felidora_dev.id)
+- 📫 How to reach me = (instagram = @fahrin.e)
 - i like (play game), (play football), some (music) and others
 - yeahhh.... my english isn't very well, but i always try
 
