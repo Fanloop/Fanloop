@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 - 👋 Hi, I’m @Fanloop
 - 👀 I’m interested in (web developer/engineering), (data analyst)
 - 🌱 I’m currently learning extremely (Laravel), (Django), (javascript)
