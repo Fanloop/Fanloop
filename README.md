@@ -9,3 +9,5 @@
 - yeahhh.... my english isn't very well, but i always try
 
 no many more i think
+
+<i class="devicon-laravel-original-wordmark colored"></i>
