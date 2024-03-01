@@ -7,6 +7,6 @@
 - yeahhh.... my english isn't very well, but i always try
 
 ## My stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="100" />
 
 no many more i think
