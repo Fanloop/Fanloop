@@ -7,6 +7,6 @@
 - yeahhh.... my english isn't very well, but i always try
 
 ## My stack
-![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg){height=24}
+![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg){width=10 height=10}
 
 no many more i think
