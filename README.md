@@ -13,6 +13,4 @@
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" />
 
-![Fanloop GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanloop&hide=contribs,prs)
-
 no many more i think
